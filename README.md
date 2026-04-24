@@ -20,7 +20,8 @@ NumPy
 Pandas
 Matplotlib / Seaborn
 Scikit-learn
-🎯 Objectives
+--> 🎯 Objectives
+
 Understand how ML algorithms work internally
 Practice model building and evaluation
 Improve coding skills in Machine Learning
